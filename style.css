@@ -1,0 +1,77 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 100px);
+    gap: 2px;
+  }
+  
+  .grid-item {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+  
+  .grid-item:nth-child(1) {
+    background-image: url('images/alex-skobe-jHvMa8UCgOw-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(2) {
+    background-image: url('images/angela-lo-OfutUxx6AIo-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(3) {
+    background-image: url('images/bermix-studio-Tb9sgkp77LM-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(4) {
+    background-image: url('images/egor-myznik-YQQWQmTddek-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(5) {
+    background-image: url('images/fidel-fernando-VPQ0et2J09Q-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(6) {
+    background-image: url('images/giorgio-trovato-BRl69uNXr7g-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(7) {
+    background-image: url('images/giorgio-trovato-oxwmpNe_7Kw-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(8) {
+    background-image: url('images/jc-gellidon-5Kqtk961U1I-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(9) {
+    background-image: url('images/john-cameron-KWanGb3Eids-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(10) {
+    background-image: url('images/markus-spiske-aHc3nQ6ITiU-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(11) {
+    background-image: url('images/markus-spiske-iRWXtXNXjIY-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(12) {
+    background-image: url('images/markus-spiske-Khx7gTE3dhY-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(13) {
+    background-image: url('images/markus-spiske-N_TFAu9gtf0-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(14) {
+    background-image: url('images/pepi-stojanovski-MJSFNZ8BAXw-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(15) {
+    background-image: url('images/matt-brown-61JGg74DBic-unsplash.jpg');
+  }
+  
+  .grid-item:nth-child(16) {
+    background-image: url('images/ronak-ramnani-c06TNJULqJQ-unsplash.jpg');
+  }
+  
